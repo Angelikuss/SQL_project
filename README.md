@@ -50,7 +50,7 @@ ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
 
-![10 Top Paying Roles](assets\top_ten_titles.png)
+![10 Top Paying Roles](https://github.com/Angelikuss/SQL_project/blob/master/assets/top_ten_titles.png)
 
 *Bar graph visualizing the salary for the top 10 salaries for data analysts for remote jobs; The graph was created using Python and Matplotlib.pyplot, based on the results of an SQL query.*
 
@@ -87,7 +87,7 @@ FROM top_paying_jobs
 ORDER BY salary_year_avg DESC
 ```
 
-![Skill Count for Top 10 Jobs](assets\skill_count.png)
+![Skill Count for Top 10 Jobs](https://github.com/Angelikuss/SQL_project/blob/master/assets/skill_count.png)
 
 *Bar graph visualizing the count of skills for the top 10 paying remote jobs for data analysts; The graph was created using Python and Matplotlib.pyplot, based on the results of an SQL query.*
 
@@ -115,7 +115,7 @@ ORDER BY demand_count DESC
 LIMIT 5
 ```
 
-![Skill Demand in 2023](assets\five_skills.png)
+![Skill Demand in 2023](https://github.com/Angelikuss/SQL_project/blob/master/assets/five_skills.png)
 
 *Bar graph visualizing the demand for top 5 skills for remote jobs for data analysts in 2023; The graph was created using Python and Matplotlib.pyplot, based on the results of an SQL query.*
 
@@ -214,7 +214,7 @@ ORDER BY avg_salary DESC,
 LIMIT 25
 ```
 
-![Most optimal Skills](assets\salary_demand_count.png)
+![Most optimal Skills](https://github.com/Angelikuss/SQL_project/blob/master/assets/salary_demand_count.png)
 
 *Scatter Plot of the most optimal skills for data analyst sorted by salary; The graph was created using Python and Matplotlib.pyplot, based on the results of an SQL query.*
 
