@@ -1,5 +1,5 @@
 # Introduction
-The project is built on the basis of data from the database: [Data Analyst Jobs in 2023.](https://huggingface.co/datasets/lukebarousse/data_jobs)
+This project is developed using data retrieved from the database: [Data Analyst Jobs in 2023.](https://huggingface.co/datasets/lukebarousse/data_jobs)
 
 Let's to reserch the data job market! Focusing on remote data analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics. 
 
